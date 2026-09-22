@@ -10,10 +10,10 @@ public class ContactTest {
 		String browser = System.getProperty("browser");
 		String username = System.getProperty("username");
 		String password = System.getProperty("password");
-		System.out.println(url);
-		System.out.println(browser);
-		System.out.println(username);
-		System.out.println(password);
+		System.out.println("url is "+url);
+		System.out.println("browser name is "+browser);
+		System.out.println("username is "+username);
+		System.out.println("password is "+password);
 		System.out.println("Executed create Contact Test");
 	}
 	
