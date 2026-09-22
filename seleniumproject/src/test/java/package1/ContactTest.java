@@ -23,5 +23,12 @@ public class ContactTest {
 		
 		// Repo url https://github.com/Mohammadsafeerazam123/framework_Repo.git
 	}
+	
+	@Test
+	public void deleteContactTest() {
+		System.out.println("Executed deleteContactTest Test");
+		
+		// Repo url https://github.com/Mohammadsafeerazam123/framework_Repo.git
+	}
 
 }
